@@ -6,7 +6,7 @@ Should work with unobfuscated and obfuscated binary (cant test all obfuscators b
 
 Installation
 =================================
-Make use QuasarDecryptor.exe and dnlib.dll are in the same folder
+Make sure QuasarDecryptor.exe and dnlib.dll are in the same folder
 
 Using
 =================================
